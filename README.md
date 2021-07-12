@@ -7,6 +7,7 @@ The outcomes was a little below expectations but a great significance considerin
 
 ## Built With
 * C#
+* Ananconda
 
 ## Acknowledgements
 * [Installing Anaconda] (https://www.immersivelimit.com/tutorials/ml-agents-python-setup-anaconda)
